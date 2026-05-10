@@ -1,4 +1,4 @@
-# CRM-Implementation-Specialist-
+# CRM IMPLEMENTATION SPECIALIST
 ---
 # ABOUT ME
 
