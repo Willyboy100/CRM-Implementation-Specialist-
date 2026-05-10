@@ -1,6 +1,5 @@
 # CRM-Automation-
-CRM system for lead tracking, qualification, and follow-up automation.
-
+---
 # ABOUT ME
 
 ## Hi, I'm William 👋
@@ -11,8 +10,9 @@ A CRM Implementation Specialist focused on building data-driven insights, busine
 # SKILLS
 As a skilled CRM implemetantion Specialist, I have proficiency in Make, Hubspot, Freshworks, Zapier, Airtable, and automation tools for designing scalable solutions across data analytics and CRM systems. I also use data and automation to simplify processes, improve visibility, and help businesses make smarter, faster decisions.
 
-## MY PROJECTS 
+---
 
+# MY PROJECTS 
 *Check out some of the projects I've been working on.* 😁
 
 **AI-powered call assistant workflow integrated with Vapi and automation tools.**
