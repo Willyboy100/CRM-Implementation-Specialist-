@@ -41,7 +41,7 @@ The system automates outbound lead engagement, internal notifications, and CRM u
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="William_Njoku Data & CRM (3).pdf">Download my CV</a></td>
+      <td><a href="">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
