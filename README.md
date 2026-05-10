@@ -20,3 +20,31 @@ As a skilled CRM implemetantion Specialist, I have proficiency in Make, Hubspot,
 Designed and implemented an automated lead qualification and customer communication workflow using Make.com, Airtable, Vapi AI, Gmail, Slack, and CRM-based processes.
 The system automates outbound lead engagement, internal notifications, and CRM updates to improve operational efficiency and lead tracking.
 [Read More](https://docs.google.com/document/d/1e2m5u_2qGY1WVNipI9uMnxdvz6wiLt5kJQoL2NZOI9A/edit?usp=sharing) 
+
+
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:Williamnjoku007@gmail.com">Williamnjoku007@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 903-274-6686, 09133806099</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Lagos, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="William Njoku Product Analyst Resume.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://linkedin.com/in/william-njoku-143b51259">The things I do daily on LinkedIn</a></td>
+    </tr>
+    <tr>
