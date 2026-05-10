@@ -17,3 +17,6 @@ As a skilled CRM implemetantion Specialist, I have proficiency in Make, Hubspot,
 
 **AI-powered call assistant workflow integrated with Vapi and automation tools.**
 ![image](Screenshot 2026-05-09 025233.png) 
+Designed and implemented an automated lead qualification and customer communication workflow using Make.com, Airtable, Vapi AI, Gmail, Slack, and CRM-based processes.
+The system automates outbound lead engagement, internal notifications, and CRM updates to improve operational efficiency and lead tracking.
+[Read More](https://docs.google.com/document/d/1e2m5u_2qGY1WVNipI9uMnxdvz6wiLt5kJQoL2NZOI9A/edit?usp=sharing) 
