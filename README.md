@@ -16,4 +16,4 @@ As a skilled CRM implemetantion Specialist, I have proficiency in Make, Hubspot,
 *Check out some of the projects I've been working on.* 😁
 
 **AI-powered call assistant workflow integrated with Vapi and automation tools.**
-![image](Screenshot 2026-03-26 084904.png)
+![image](Screenshot 2026-05-09 025233.png) 
