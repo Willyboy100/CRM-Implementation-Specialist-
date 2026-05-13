@@ -15,6 +15,10 @@ As a skilled CRM implemetantion Specialist, I have proficiency in Make, Hubspot,
 # MY PROJECTS 
 *Check out some of the projects I've been working on.* 😁
 
+**CRM-Customer Support Automation**
+![image]() 
+This project demonstrates a customer support automation system designed to streamline ticket management workflows using Make.com, Airtable, Gmail, and Slack integrations. The workflow automates ticket monitoring, routing, communication, and internal team coordination to improve support efficiency and response management.
+
 **AI-powered call assistant workflow integrated with Vapi and automation tools.**
 ![image](Screenshot 2026-05-09 025233.png) 
 Designed and implemented an automated lead qualification and customer communication workflow using Make.com, Airtable, Vapi AI, Gmail, Slack, and CRM-based processes.
